@@ -1,4 +1,4 @@
-# vkbr-front-ksa
+# front
 
 ## Project setup
 ```
